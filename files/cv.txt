@@ -1,0 +1,40 @@
+Rishikesh Kumar,
+Certified Ethical Hacker.
+
+email= admin@cyber-gyan.me                                                                    
+
+
+
+
+EDUCATION         Secondary (X)
+                  CBSE BOARD BOARD board
+                  Year of completion: 2021
+
+
+TRAININGS         Certified Ethical Hacker V11
+                  QUALITY PLUS EDUCATION GROUP, Online
+                  Apr 2021 - Sep 2021
+                  I completed my CEH v11.
+
+
+SKILLS            MS-PowerPoint                       MS-Office
+                  Advanced                            Advanced
+
+                  MS-Excel                            Adobe Photoshop
+                  Advanced                            Intermediate
+
+                  English Proficiency (Written)       English Proficiency (Spoken)
+                  Advanced                            Advanced
+
+                  Hindi Proficiency (Spoken)          Hindi Proficiency (Written)
+                  Advanced                            Advanced
+
+                  Python                              C++ Programming
+                  Intermediate                        Beginner
+
+                  Ethical Hacking
+                  Intermediate
+
+
+WORK SAMPLES      Blog link
+                  https://techhacker79.blogspot.com/?m=1
